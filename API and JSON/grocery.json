@@ -1,0 +1,10 @@
+{
+  "Store": "Kroger",
+  "Total": 12.99,
+  "Cart": [ "Cheese", "Bread" ],
+  "Cashier": {
+    "Name": "Joe",
+    "CompanyPosition": "Bag Boy",
+    "IsAlive": false
+  }
+}
